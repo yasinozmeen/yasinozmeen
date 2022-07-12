@@ -1,7 +1,7 @@
 ### Hi there 👋
-I am a software lover studying Mathematics in Eskisehir. I am trying to develop myself in the field of iOS-Swift and put the exercises and applications I have on githuba.
+I'm a software lover who is currently studying Mathematics in Eskisehir. I'm trying to evolve in the field of iOS-Swift and I share my practices while Im learning on github.
 
 ## Contact
-+ [Twitter](https://twitter.com/yasinozmeen)
-+ [YouTube](https://www.youtube.com/channel/UCo83UrmkpPxZXDCw-IkyBBw)
-+ [Medium](http://yasinozmeen.medium.com)
+- [Twitter](https://twitter.com/yasinozmeen)
+- [YouTube](https://www.youtube.com/channel/UCo83UrmkpPxZXDCw-IkyBBw)
+- [Medium](http://yasinozmeen.medium.com)
