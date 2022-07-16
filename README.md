@@ -5,8 +5,14 @@ I'm a software lover who is currently studying Mathematics in Eskisehir. I'm try
 - [Twitter](https://twitter.com/yasinozmeen)
 - [YouTube](https://www.youtube.com/channel/UCo83UrmkpPxZXDCw-IkyBBw)
 - [Medium](http://yasinozmeen.medium.com)
+
 <div align="center">
+
+[![Yasinozmeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasinozmeen&hide=contribs,prs,issues&show_icons=true&theme=radical&title_color=eace5f&bg_color=DEG,cf6856,8a528f&text_color=F8F8F8)](https://github.com/anuraghazra/github-readme-stats)
+
   
-![Swift_logo_horz_lockup_color_rgb](https://user-images.githubusercontent.com/54503469/178611089-df5a8241-2828-4c44-90d6-fc22e650376d.jpg)
-  
+<p><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="60" height="60"/> 
+</a> </p>
 <div>
+
+# SWIFT
