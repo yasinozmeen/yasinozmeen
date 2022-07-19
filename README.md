@@ -8,11 +8,12 @@ I'm a software lover who is currently studying Mathematics in Eskisehir. I'm try
 
 <div align="center">
 
-[![Yasinozmeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasinozmeen&hide=contribs,prs,issues&show_icons=true&theme=radical&title_color=eace5f&bg_color=DEG,cf6856,8a528f&text_color=F8F8F8)](https://github.com/anuraghazra/github-readme-stats)
 
-  
-<p><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="60" height="60"/> 
+  <p><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="60" height="60"/> 
 </a> </p>
+  
+  
+  [![Yasinozmeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasinozmeen&hide=contribs,prs,issues&show_icons=true&theme=radical&title_color=eace5f&bg_color=DEG,cf6856,8a528f&text_color=F8F8F8)](https://github.com/anuraghazra/github-readme-stats)
+
 <div>
 
-# SWIFT
