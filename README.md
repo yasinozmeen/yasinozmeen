@@ -5,7 +5,7 @@ I'm a software lover who is currently studying Mathematics in Eskisehir. I'm try
 - [Twitter](https://twitter.com/yasinozmeen)
 - [YouTube](https://www.youtube.com/channel/UCo83UrmkpPxZXDCw-IkyBBw)
 - [Medium](http://yasinozmeen.medium.com)
--[MySite](yasinozmeen.dev)
+- [MySite](yasinozmeen.dev)
 
 <div align="center">
 
