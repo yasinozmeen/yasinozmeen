@@ -15,6 +15,8 @@ I'm a software lover who is currently studying Mathematics in Eskisehir. I'm try
   
   
   [![Yasinozmeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasinozmeen&hide=contribs,prs,issues&show_icons=true&theme=radical&title_color=eace5f&bg_color=DEG,cf6856,8a528f&text_color=F8F8F8)](https://github.com/anuraghazra/github-readme-stats)
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yasinozmeen&theme=monokai-metallian&hide_border=true&stroke=D4BE67&currStreakLabel=825487&sideLabels=DDDDDD&ring=825487&background=232323&currStreakNum=825487)](https://git.io/streak-stats)
 
 <div>
 
