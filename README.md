@@ -11,6 +11,8 @@ I'm a software lover who is currently studying Mathematics in Eskisehir. I'm try
 <code><img height="30" src="https://github.com/yasinozmeen/yasinozmeen/blob/main/swift.png"></code>
 <code><img height="30" src="https://github.com/yasinozmeen/yasinozmeen/blob/main/xcode.png"></code>
 <code><img height="30" src="https://github.com/yasinozmeen/yasinozmeen/blob/main/sourcetree.png"></code>
+<code><img height="30" src="https://github.com/yasinozmeen/yasinozmeen/blob/main/icon_128x128.png"></code>
+<code><img height="30" src="https://github.com/yasinozmeen/yasinozmeen/blob/main/Code.png"></code>
 <code><img height="30" src="https://github.com/yasinozmeen/yasinozmeen/blob/main/discord.svg"></code>
 <code><img height="30" src="https://github.com/yasinozmeen/yasinozmeen/blob/main/illustrator.png"></code>
 <code><img height="30" src="https://github.com/yasinozmeen/yasinozmeen/blob/main/photoshop.png"></code>
